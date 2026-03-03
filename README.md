@@ -72,12 +72,10 @@ Currently:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anjaliv31&show_icons=true&hide_border=true"/>
-<br/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anjaliv31&layout=compact&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=anjaliv31&hide_border=true"/>
 </p>
 
 ---
